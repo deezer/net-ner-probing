@@ -14,8 +14,8 @@ In `data/entity_typing`, we can find the train and test splits of the three corp
 ## Installation
 
 ```bash
-git clone git@github.deezerdev.com:eepure/zero-few-shot_nerc.git
-cd zero-few-shot_nerc
+git clone git@github.com:deezer/net-ner-probing.git
+cd net-ner-probing
 ```
 
 Most of the experiments can be run on CPU. However, the time is significantly longer. Therefore, we encourage the use of a GPU environment with CUDA installed, especially for the NER experiments.
